@@ -1,6 +1,6 @@
 cask "media-fixer" do
-  version "2.0.1"
-  sha256 "c9beabbdc226e1e3a0cd57b00138eb6ae48475cb4c9c27a4ade36e07dff5d3fa"
+  version "2.0.2"
+  sha256 "08351a94717b7f3b9904e9f260ad64c2660756055cf0c3c205b7d12426d720e2"
 
   url "https://github.com/BryanPuckettGH/media-fixer/releases/download/v#{version}/Media-Fixer.dmg"
   name "Media Fixer"
